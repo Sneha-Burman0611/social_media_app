@@ -1,8 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank">
-    </a>
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
